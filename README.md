@@ -1,6 +1,6 @@
 ### AI-Router Analysis
 
-This project was developed to collect datapoints from [OpenRouter](https://openrouter.com) and [Hugging Face](https://hugginface.co) as a part of the group project for module M162E.
+This project was developed to collect datapoints from [OpenRouter](https://openrouter.com) and [Hugging Face](https://huggingface.co) as a part of the group project for module M162E.
 
 ## Usage
 Before using this project, you need to install [UV](https://docs.astral.sh/uv/]. Follow the official [installation guide](https://docs.astral.sh/uv/getting-started/installation/) to get started. 
