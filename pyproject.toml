@@ -11,8 +11,8 @@ dependencies = [
 ]
 
 [project.scripts]
-fetch = "openrouter_analysis.fetch:main"
-sort = "openrouter_analysis.sort:main"
+fetch = "airouter_analysis.fetch:main"
+sort = "airouter_analysis.sort:main"
 [build-system]
 requires = ["uv_build>=0.12.11,<0.13.0"]
 build-backend = "uv_build"
